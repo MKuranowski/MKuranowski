@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**MKuranowski/MKuranowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mikołaj Kuranowski, currently a Comp Sci student at the Warsaw Univercity fo Technology.
+I do a lot of work realted to open transportation data.
 
-Here are some ideas to get you started:
+Here are some fancy stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=MKuranowski)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKuranowski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Repositories
+
+#### Public Transportation
+
+- [TokyoGTFS](https://github.com/MKuranowski/TokyoGTFS)
+- [HokkiadoRailGTFS](https://github.com/MKuranowski/HokkaidoRailGTFS)
+- [WarsawGTFS](https://github.com/MKuranowski/WarsawGTFS)
+- [PolRegioGTFS](https://github.com/MKuranowski/PolRegioGTFS)
+- [PKPIntercityGTFS](https://github.com/MKuranowski/PKPIntercityGTFS)
+- [TristarGTFS](https://github.com/MKuranowski/TristarGTFS) (Gdańsk/Gdynia/Sopot)
+- [RzeszowGTFS](https://github.com/MKuranowski/RzeszowGTFS)
+- [RadomGTFS](https://github.com/MKuranowski/RadomGTFS)
+- [PLRailMap](https://github.com/MKuranowski/PLRailMap) - map of all rail stations used by Polish operators
+- [jvig](https://github.com/MKuranowski/jvig) - GTFS viewer
+
+#### Python Libraries
+
+- [aiocsv](https://github.com/MKuranowski/aiocsv)
+- [osmiter](https://github.com/MKuranowski/osmiter)
+- [pyroutelib3](https://github.com/MKuranowski/pyroutelib3)
