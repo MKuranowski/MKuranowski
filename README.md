@@ -28,3 +28,7 @@ Here are some fancy stats:
 - [aiocsv](https://github.com/MKuranowski/aiocsv)
 - [osmiter](https://github.com/MKuranowski/osmiter)
 - [pyroutelib3](https://github.com/MKuranowski/pyroutelib3)
+
+#### Recreational Programming
+
+- [Advent of Code 2020](https://github.com/MKuranowski/AdventOfCode2020/) - in Clojure
