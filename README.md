@@ -37,3 +37,4 @@ Here are some fancy stats:
 
 - [ARKO (Architektura Komputerów)](https://github.com/MKuranowski/STUD-ARKO)
 - [PROI (Programowanie Obiektowe)](https://github.com/MKuranowski/STUD-PROI)
+- [WSI (Wstęp do Sztucznej Inteligencji)](https://github.com/MKuranowski/STUD-WSI)
