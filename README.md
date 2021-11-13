@@ -32,3 +32,7 @@ Here are some fancy stats:
 #### Recreational Programming
 
 - [Advent of Code 2020](https://github.com/MKuranowski/AdventOfCode2020/) - in Clojure
+
+#### Warsaw University of Technology courses
+
+- [ARKO Architektura Komputerów](https://github.com/MKuranowski/STUD-ARKO) 
