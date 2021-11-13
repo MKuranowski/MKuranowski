@@ -35,4 +35,5 @@ Here are some fancy stats:
 
 #### Warsaw University of Technology courses
 
-- [ARKO Architektura Komputerów](https://github.com/MKuranowski/STUD-ARKO) 
+- [ARKO (Architektura Komputerów)](https://github.com/MKuranowski/STUD-ARKO)
+- [PROI (Programowanie Obiektowe)](https://github.com/MKuranowski/STUD-PROI)
