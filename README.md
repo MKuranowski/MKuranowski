@@ -28,6 +28,7 @@ Here are some fancy stats:
 - [aiocsv](https://github.com/MKuranowski/aiocsv)
 - [osmiter](https://github.com/MKuranowski/osmiter)
 - [pyroutelib3](https://github.com/MKuranowski/pyroutelib3)
+- [table2md](https://github.com/MKuranowski/table2md)
 
 #### Recreational Programming
 
