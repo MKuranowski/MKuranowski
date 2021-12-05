@@ -32,7 +32,8 @@ Here are some fancy stats:
 
 #### Recreational Programming
 
-- [Advent of Code 2020](https://github.com/MKuranowski/AdventOfCode2020/) - in Clojure
+- [Advent of Code 2020](https://github.com/MKuranowski/AdventOfCode2020/) - in Clojure & Python
+- [Advent of Code 2021](https://github.com/MKuranowski/AdventOfCode2021) - in Python
 
 #### Warsaw University of Technology courses
 
