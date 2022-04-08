@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Mikołaj Kuranowski, currently a Comp Sci student at the Warsaw Univercity fo Technology.
+I'm Mikołaj Kuranowski, currently a Comp Sci student at the Warsaw University of Technology.
 I do a lot of work realted to open transportation data.
 
 Here are some fancy stats:
