@@ -13,7 +13,7 @@ Here are some fancy stats:
 #### Public Transportation
 
 - [TokyoGTFS](https://github.com/MKuranowski/TokyoGTFS)
-- [HokkiadoRailGTFS](https://github.com/MKuranowski/HokkaidoRailGTFS)
+- [HokkaidoRailGTFS](https://github.com/MKuranowski/HokkaidoRailGTFS)
 - [WarsawGTFS](https://github.com/MKuranowski/WarsawGTFS)
 - [PolRegioGTFS](https://github.com/MKuranowski/PolRegioGTFS)
 - [PKPIntercityGTFS](https://github.com/MKuranowski/PKPIntercityGTFS)
