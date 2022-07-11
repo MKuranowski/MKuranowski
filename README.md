@@ -34,10 +34,3 @@ Here are some fancy stats:
 
 - [Advent of Code 2020](https://github.com/MKuranowski/AdventOfCode2020/) - in Clojure & Python
 - [Advent of Code 2021](https://github.com/MKuranowski/AdventOfCode2021) - in Python
-
-#### Warsaw University of Technology courses
-
-- [ARKO (Architektura Komputerów)](https://github.com/MKuranowski/STUD-ARKO)
-- [PROI (Programowanie Obiektowe)](https://github.com/MKuranowski/STUD-PROI)
-- [SOI (Systemy Operacyjne)](https://github.com/MKuranowski/STUD-SOI)
-- [WSI (Wstęp do Sztucznej Inteligencji)](https://github.com/MKuranowski/STUD-WSI)
