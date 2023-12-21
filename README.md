@@ -37,3 +37,5 @@ Here are some fancy stats:
 - [Advent of Code 2020](https://github.com/MKuranowski/AdventOfCode2020) - in Clojure & Python
 - [Advent of Code 2021](https://github.com/MKuranowski/AdventOfCode2021) - in Python
 - [Advent of Code 2022](https://github.com/MKuranowski/AdventOfCode2022) - in TypeScript
+- [Advent of Code 2023](https://github.com/MKuranowski/AdventOfCode2023) - in Rust
+- [Project Euler](https://github.com/MKuranowski/ProjectEuler/)
