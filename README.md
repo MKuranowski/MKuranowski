@@ -21,14 +21,16 @@ Here are some fancy stats:
 - [RzeszowGTFS](https://github.com/MKuranowski/RzeszowGTFS)
 - [RadomGTFS](https://github.com/MKuranowski/RadomGTFS)
 - [PLRailMap](https://github.com/MKuranowski/PLRailMap) - map of all rail stations used by Polish operators
+
+#### Libraries & Tools
+
+- [Impuls](https://github.com/MKuranowski/Impuls) - Python+Zig library for transit data processing
+- [aiocsv](https://github.com/MKuranowski/aiocsv) - Python library for async csv processing
 - [jvig](https://github.com/MKuranowski/jvig) - GTFS viewer
-
-#### Python Libraries
-
-- [aiocsv](https://github.com/MKuranowski/aiocsv)
-- [osmiter](https://github.com/MKuranowski/osmiter)
-- [pyroutelib3](https://github.com/MKuranowski/pyroutelib3)
-- [table2md](https://github.com/MKuranowski/table2md)
+- [pyroutelib3](https://github.com/MKuranowski/pyroutelib3) - Python library for routing over OSM data
+- [table2md](https://github.com/MKuranowski/table2md) - Python library for printing tabular data in Markdown
+- [sgrp](https://github.com/MKuranowski/sgrp) - JavaScript library for convering ANSI color codes to HTML
+- [C-2DMatrix](https://github.com/MKuranowski/C-2DMatrix) - C STB-style library with a basic implementation of a 2D matrix
 
 #### Recreational Programming
 
