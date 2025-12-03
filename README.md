@@ -41,4 +41,5 @@ Here are some fancy stats:
 - [Advent of Code 2022](https://github.com/MKuranowski/AdventOfCode2022) - in TypeScript
 - [Advent of Code 2023](https://github.com/MKuranowski/AdventOfCode2023) - in Rust
 - [Advent of Code 2024](https://github.com/MKuranowski/AdventOfCode2024) - in Julia
+- [Advent of Code 2025](https://github.com/MKuranowski/AdventOfCode2025) - in Zig
 - [Project Euler](https://github.com/MKuranowski/ProjectEuler/)
