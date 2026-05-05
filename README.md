@@ -1,7 +1,6 @@
 ### Hello there! 👋
 
-I'm Mikołaj Kuranowski, currently doing a Comp Sci student at (both) Warsaw University of Technology and Kyungpook National University.
-I do a lot of work realted to open transportation data.
+I'm Mikołaj Kuranowski, a software developer from Warsaw, Poland. I do a lot of work realted to open transportation data.
 
 Here are some fancy stats:
 
@@ -12,6 +11,7 @@ Here are some fancy stats:
 
 #### Libraries & Tools
 
+- [HSTool](https://github.com/MKuranowski/HSTool) - Helper app for seeking in [Jet Lag: The Game Hide and Seek Transit Game](https://store.nebula.tv/collections/jetlag/products/hideandseek)
 - [Impuls](https://github.com/MKuranowski/Impuls) - Python+Zig library for transit data processing
 - [aiocsv](https://github.com/MKuranowski/aiocsv) - C extension for Python for async csv processing
 - [jvig](https://github.com/MKuranowski/jvig) - GTFS viewer written in Python with Flask
@@ -25,11 +25,12 @@ Here are some fancy stats:
 
 - [TokyoGTFS](https://github.com/MKuranowski/TokyoGTFS)
 - [WarsawGTFS](https://github.com/MKuranowski/WarsawGTFS)
-- [PolRegioGTFS](https://github.com/MKuranowski/PolRegioGTFS)
-- [PKPIntercityGTFS](https://github.com/MKuranowski/PKPIntercityGTFS)
+- [PolishTrainsGTFS](https://github.com/MKuranowski/PolishTrainsGTFS)
+- [GZMGTFS](https://github.com/MKuranowski/GZMGTFS) (Górnośląsko-Zagłębiowska Metropolia)
 - [RzeszowGTFS](https://github.com/MKuranowski/RzeszowGTFS)
+- [GorzowWielkopolskiGTFS](https://github.com/MKuranowski/GorzowWielkopolskiGTFS)
 - [RadomGTFS](https://github.com/MKuranowski/RadomGTFS)
-- [WKDGTFS](https://github.com/MKuranowski/RadomGTFS)
+- [WKDGTFS](https://github.com/MKuranowski/WKDGTFS)
 - [PLRailMap](https://github.com/MKuranowski/PLRailMap) - map of all rail stations used by Polish operators
 
 #### Recreational Programming
