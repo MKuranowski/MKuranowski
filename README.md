@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Mikołaj Kuranowski, a software developer from Warsaw, Poland. I do a lot of work realted to open transportation data.
+I'm Miko Kuranowski, a software developer from Warsaw, Poland. I do a lot of work related to open transportation data.
 
 Here are some fancy stats:
 
@@ -31,7 +31,7 @@ Here are some fancy stats:
 - [GorzowWielkopolskiGTFS](https://github.com/MKuranowski/GorzowWielkopolskiGTFS)
 - [RadomGTFS](https://github.com/MKuranowski/RadomGTFS)
 - [WKDGTFS](https://github.com/MKuranowski/WKDGTFS)
-- [PLRailMap](https://github.com/MKuranowski/PLRailMap) - map of all rail stations used by Polish operators
+- [KorailGTFS](https://github.com/MKuranowski/KorailGTFS)
 
 #### Recreational Programming
 
